@@ -22,6 +22,7 @@ Dados para depósito:
 | AG:       | 4272
 | CC:       | 770003510
 | CPF:      | 095.302.246-30
+| Nome:     | DIEGO HERNANDES SOARES ALVES
 | Valor:    | R$ 289 
 
 | Banco     | Itaú
@@ -29,6 +30,7 @@ Dados para depósito:
 | AG:       | 8784
 | CC:       | 01342-0
 | CPF:      | 095.302.246-30
+| Nome:     | DIEGO HERNANDES SOARES ALVES
 | Valor:    | R$ 289 
 
 | Banco     | Inter (medium)
@@ -36,6 +38,7 @@ Dados para depósito:
 | AG:       | 0001
 | CC:       | 678520-4
 | CPF:      | 095.302.246-30
+| Nome:     | DIEGO HERNANDES SOARES ALVES
 | Valor:    | R$ 289 
 
 ### Como vou ter acesso ao curso, se eu comprar na Pré venda?
