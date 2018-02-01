@@ -1,4 +1,4 @@
-![https://i.imgur.com/nC039Hp.jpg](https://i.imgur.com/nC039Hp.jpg)
+![https://i.imgur.com/4Rz7WRX.jpg](https://i.imgur.com/4Rz7WRX.jpg)
 # Desenvolvimento Blockchain com Ethereum
 
 Essa é a ementa inicial, para que feedback seja colhido e a grade aprimorada antes do lançamento do mesmo.
