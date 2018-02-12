@@ -11,9 +11,16 @@ Sim, ex-aluno tem desconto de 50% em qualquer etapa.
 
 ### Como proceder com o inscrição na pré venda?
 
-O pagamento poderá ser feito por transferência, boleto ou cartão. Transferência tem R$ 10 adicional de desconto.
+O pagamento poderá ser feito por transferência, boleto, cartão ou cripto. Transferência bancária tem R$ 10 adicional de desconto.
 
-> **Atenção, envie o comprovante de pagamento para diego+bc@hernandev.com**
+Dados para transferência crypto:
+
+LTC: `LNJfvqcbrAKCkZB22vcwNEFVnRfAMwm17Z`
+BCC: `bitcoincash:qzvxnaclyngekjyd07a0gtglwwdm268k4u96kkm752`
+
+Outras moedas, por favor utilize [shapeshift.io](shapeshift.io)
+
+> **Atenção, envie o comprovante de pagamento ou txid para diego+bc@hernandev.com**
 
 Dados para depósito:
 
