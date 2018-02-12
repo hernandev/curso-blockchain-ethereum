@@ -16,6 +16,7 @@ O pagamento poderá ser feito por transferência, boleto, cartão ou cripto. Tra
 Dados para transferência crypto:
 
 LTC: `LNJfvqcbrAKCkZB22vcwNEFVnRfAMwm17Z`
+
 BCC: `bitcoincash:qzvxnaclyngekjyd07a0gtglwwdm268k4u96kkm752`
 
 Outras moedas, por favor utilize [shapeshift.io](shapeshift.io)
