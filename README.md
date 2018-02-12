@@ -1,7 +1,13 @@
 ![https://i.imgur.com/4Rz7WRX.jpg](https://i.imgur.com/4Rz7WRX.jpg)
 # Desenvolvimento Blockchain com Ethereum
 
-Essa é a ementa inicial, para que feedback seja colhido e a grade aprimorada antes do lançamento do mesmo.
+Ementa inicial do mais extenso e detalhado curso sobre Desenvolvimento Blockchain com Ethereum da Lingua Portuguesa!
+
+## Pré-Venda
+
+[Nesse link](https://github.com/hernandev/curso-blockchain-ethereum/blob/master/pre-venda.md) estão todas as informações sobre a pré-venda com ~40% de desconto.
+
+Pelo menos dois módulos novos serão incluídos até o fechamento do curso.
 
 ## nulla: Introdução ao Curso.
 
