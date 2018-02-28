@@ -6,6 +6,8 @@ O curso, terá 3 etapas / valores:
 - Valor em progresso, porem jǻ publicado na Udemy: R$ 389
 - Valor da pré-venda: R$ 299.
 
+**Término da Pré-Venda: 02/03/2018**
+
 ### Sou ex-aluno, tenho desconto?
 Sim, ex-aluno tem desconto de 50% em qualquer etapa.
 
