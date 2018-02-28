@@ -9,6 +9,8 @@ Ementa inicial do mais extenso e detalhado curso sobre Desenvolvimento Blockchai
 
 Pelo menos dois módulos novos serão incluídos até o fechamento do curso.
 
+**Término da Pré-Venda: 02/03/2018**
+
 ---
 
 ## nulla: Introdução ao Curso.
